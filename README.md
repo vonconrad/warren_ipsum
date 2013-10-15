@@ -1,4 +1,4 @@
-# Warren Ipsum
+# Warren Ipsum, the gem
 
 ![Warren Ipsum](http://www.warrenipsum.com/wp-content/themes/boilerplate/images/warren.png "Warren Ipsum")
 
