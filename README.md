@@ -21,9 +21,11 @@ gem install warren_ipsum
 ```ruby
 require 'warren_ipsum'
 
-WarrenIpsum.generate # Will return one line.
+# Will generate one line.
+WarrenIpsum.generate
 # => "these young bucks have never seen a nuclear fucking winter."
 
-WarrenIpsum.generate(:lines => 3) # Will combine three lines, separated by commas.
+# Will combine three lines, separated by commas.
+WarrenIpsum.generate(:lines => 3)
 # => "I know you guys will find it tough without me but I know you have it in you to soldier on in my absence, embrace the cheese, most women should try throwing with the other hand."
 ```
