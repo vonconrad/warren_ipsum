@@ -1,5 +1,7 @@
 # Warren Ipsum, the gem
 
+Based on [WarrenIpsum.com](http://www.warrenipsum.com).
+
 ![Warren Ipsum](http://www.warrenipsum.com/wp-content/themes/boilerplate/images/warren.png "Warren Ipsum")
 
 ## Installation
