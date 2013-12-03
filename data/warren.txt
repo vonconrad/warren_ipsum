@@ -94,3 +94,4 @@ JS developers are the kind of people who'd start bushfires, you know
 you joke, but python...
 I love WA, they have the special kind of crazy there
 it's psychology and not technology
+that joke was funny when Aaron Patterson did it, now every other ruby dev recycles it
