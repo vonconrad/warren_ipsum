@@ -93,3 +93,4 @@ it's automated distributed and reasonably sophistsicated
 JS developers are the kind of people who'd start bushfires, you know
 you joke, but python...
 I love WA, they have the special kind of crazy there
+it's psychology and not technology
