@@ -96,3 +96,4 @@ I love WA, they have the special kind of crazy there
 it's psychology and not technology
 that joke was funny when Aaron Patterson did it, now every other ruby dev recycles it
 DJ is like _Fisher Price’s My First Job Queue
+
