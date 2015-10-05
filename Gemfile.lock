@@ -24,3 +24,6 @@ DEPENDENCIES
   rake
   rspec (~> 2.14.0)
   warren_ipsum!
+
+BUNDLED WITH
+   1.10.6
