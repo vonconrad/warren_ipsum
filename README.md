@@ -29,5 +29,5 @@ WarrenIpsum.generate
 
 # Will combine three lines, separated by commas.
 WarrenIpsum.generate(:lines => 3)
-# => "I know you guys will find it tough without me but I know you have it in you to soldier on in my absence, embrace the cheese, most women should try throwing with the other hand."
+# => "I know you guys will find it tough without me but I know you have it in you to soldier on in my absence, embrace the cheese, I cry every time I think how much I paid for my first 1GB HDD."
 ```
